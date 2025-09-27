@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_title">Pair Even G1 Glasses</string>
+    <string name="pairing_subtitle">Select your glasses below to connect them to the hub.</string>
+    <string name="pairing_status_scanning">Scanning for nearby devices…</string>
+    <string name="pairing_action_scan">Scan Again</string>
+    <string name="empty_state_title">No glasses found</string>
+    <string name="empty_state_message">Make sure your Even G1 glasses are powered on and in range, then start a new scan.</string>
+
+    <string name="device_status_disconnected">Disconnected</string>
+    <string name="device_status_connecting">Connecting…</string>
+    <string name="device_status_connected">Connected</string>
+    <string name="device_status_error">Error</string>
+
+    <string name="device_action_pair">Pair</string>
+    <string name="device_action_disconnect">Disconnect</string>
+</resources>

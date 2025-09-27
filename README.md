@@ -36,3 +36,7 @@ npx expo run:android
 **Development Environment:**
 - Node.js: v21.0.8
 - Java: OpenJDK 21
+
+## Project Goals
+
+- Basic Glasses Pairing Workflow — **50%** complete (pairing logic is implemented and the hub UI has been refreshed).

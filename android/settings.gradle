@@ -36,4 +36,5 @@ rootProject.name = 'G1 OpenTeleprompter'
 expoAutolinking.useExpoVersionCatalog()
 
 include ':app'
+include ':hub'
 includeBuild(expoAutolinking.reactNativeGradlePlugin)

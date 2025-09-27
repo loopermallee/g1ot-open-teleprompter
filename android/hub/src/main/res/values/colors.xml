@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_surface">#F6F7FB</color>
+    <color name="background_card">#FFFFFFFF</color>
+    <color name="text_primary">#1D1B20</color>
+    <color name="text_secondary">#49454F</color>
+    <color name="primary_color">#1E88E5</color>
+
+    <color name="status_chip_disconnected">#E0E0E0</color>
+    <color name="status_chip_disconnected_text">#424242</color>
+    <color name="status_chip_connecting">#FFE082</color>
+    <color name="status_chip_connecting_text">#6D4C41</color>
+    <color name="status_chip_connected">#C8E6C9</color>
+    <color name="status_chip_connected_text">#1B5E20</color>
+    <color name="status_chip_error">#FFCDD2</color>
+    <color name="status_chip_error_text">#C62828</color>
+
+    <color name="pair_button_background">#2962FF</color>
+    <color name="disconnect_button_background">#D32F2F</color>
+    <color name="action_button_text">#FFFFFF</color>
+</resources>
