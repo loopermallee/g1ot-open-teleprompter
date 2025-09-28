@@ -40,5 +40,9 @@
         <data android:scheme="g1ot"/>
       </intent-filter>
     </activity>
+    <service
+      android:name="io.texne.g1.basis.service.G1DisplayService"
+      android:exported="true"
+      android:enabled="true" />
   </application>
 </manifest>
